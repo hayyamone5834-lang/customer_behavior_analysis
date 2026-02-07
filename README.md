@@ -9,7 +9,7 @@ The goal is to analyze the dataset, uncover insights, and present them in a clea
 # Dataset
 
 Source: GitHub
-Format: Excel 
+Format: CSV 
 Description: This dataset contains 3,900 rows and 18 columns detailing consumer demographics, product preferences, and transactional behaviors to provide insights into retail shopping trends.
 Key Attributes: Key fields in this dataset include Customer ID, Age, and Gender for demographics, Item Purchased and Category for product tracking, and financial metrics such as Purchase Amount (USD) and Discount Applied.
 
